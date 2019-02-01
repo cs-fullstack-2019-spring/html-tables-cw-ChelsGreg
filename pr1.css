@@ -1,0 +1,14 @@
+table {
+    border-collapse: separate;
+    border-spacing: 2px;
+}
+
+th,
+td {
+    border: 2px solid #080008;
+    padding: 10px 15px;
+}
+
+a{
+    color: purple;
+}
